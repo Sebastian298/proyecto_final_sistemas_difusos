@@ -14,7 +14,6 @@ authors = [
 ]
 dependencies = [
     "numpy>=1.26.0",
-    "scikit-fuzzy>=0.4.2",
     "matplotlib>=3.8.0",
 ]
 
